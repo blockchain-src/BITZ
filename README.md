@@ -1,6 +1,6 @@
-# BITZ 安装与启动指南
+# ===BITZ 安装与启动指南===
 
-## 适用于 Linux、WSL、macOS 系统
+## 🔴适用于 Linux、WSL、macOS 系统
 
 请在终端执行以下命令：
 
@@ -8,7 +8,7 @@
 git clone https://github.com/blockchain-src/BITZ.git && cd BITZ && chmod +x bitz.sh && ./bitz.sh
 ```
 
-## 适用于 Windows 系统
+## 🔴适用于 Windows 系统
 
 请以管理员身份启动 PowerShell，依次执行以下命令：
 
