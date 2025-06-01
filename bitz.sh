@@ -121,7 +121,7 @@ fi
 
 
 # 1️⃣ 输入密码变量
-read -s -p "请输入你的 Solana 钱包密码（用于生成 keypair）: " password
+read -s -p "请输入你的 Solana 钱包密码（自定义密码，用于生成 keypair）: " password
 echo ""
 
 # 2️⃣ 安装 Rust
